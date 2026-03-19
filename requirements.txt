@@ -1,0 +1,6 @@
+yara_x
+warcio
+google-genai
+tldextract
+genai-prices
+docker
